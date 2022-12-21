@@ -1,0 +1,261 @@
+/* #hr_bold{
+    height:6px;border-width:0;color:black;background-color:black;
+} */
+.hr {
+    border: none;
+    height: 5px;
+   
+    /* Set the hr color */
+    color: green; /* old IE */
+    background-color:green; /* Modern Browsers */
+} 
+
+
+.logo{
+     margin-left: 10%;
+    
+} 
+
+
+/* .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}  */
+
+
+
+ 
+.card_1 {
+    width: 20rem;
+    height: 65vh;
+   position: fixed;
+    z-index: 1;
+    top: 32%;
+    left: 65%;
+  
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+  
+  /* .card_1 {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+  } */
+  
+ 
+  
+  .card_1 {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+       padding: 0px 10px;
+  }
+  
+  /* @media screen and (max-height: 450px) {
+    .card {
+        padding-top: 15px;  
+      position: relative; left: 700%;
+    }
+    .card {font-size: 18px;}
+  }
+
+  @media screen and (max-height: 667px) {
+    .card {
+       background-color: blue;
+  
+    }
+    
+  } */
+  @media (max-width: 768px) {
+    .card_1 {
+    
+        /* margin-left: 1px; */
+        position: absolute;
+      left: 45px;
+      width: 50%;
+      position: fixed;
+    }
+
+  }
+  @media (max-width: 667px) {
+    .card_1 {
+    
+        /* margin-left: 1px; */
+        position: absolute;
+      left: 26%;
+      width: 50%;
+      position: fixed;
+    }
+
+  }
+
+
+
+  .heart{
+    z-index: 5px;position: relative;bottom: 156px; right: 0px;
+  }
+
+  .heart a{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+     color: white;
+    cursor: pointer;
+    margin-right: 20px;
+    background-color: rgba(46, 38, 38, 0.288);
+    margin-bottom: 35px;
+    }
+    
+
+    .location{
+      z-index: 5px;position: relative;bottom: 230px; right: 70px;
+    }
+
+    .location{
+      width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+ 
+   
+
+    background-color: rgba(46, 38, 38, 0.288);
+    
+    }
+    
+
+    .form_div{
+      z-index: 5px;position: relative;bottom: 150px; left: 20px;
+      color: black;
+      background-color: #eee;
+      width: 100px;
+      text-align: center;
+      opacity: 0.6;
+     
+    }
+
+    #reviwe {
+      z-index: 5px;position: relative;bottom: 197px; left: 25px;
+    }
+
+    #star {
+      z-index: 5px;position: relative;left: 2px;
+      bottom: 160px; 
+    }
+
+    
+    .card-body{
+      height: 60px;
+      
+    }
+    
+    #house {
+      z-index: 5px;position: relative;left: 240px;
+      bottom: 240px;
+      width: 50px;
+    }
+
+    #royal {
+      z-index: 5px;position: relative;bottom: 230px;
+      width: 200px;
+    }
+
+    #pool {
+      z-index: 5px;position: relative;bottom: 240px;
+ 
+    }
+
+
+    #honolulu {
+      z-index: 5px;position: relative;bottom: 250px;
+    }
+
+    #booking{
+      z-index: 5px;position: relative;bottom: 230px;   
+    }
+    #booking a{
+      text-decoration: none;
+    }
+
+    #view_availability {
+      z-index: 5px;position: relative;left: 140px;
+      bottom: 250px; 
+      width: 150px;
+      
+    }
+
+ #n {
+  z-index: 1px;
+position: relative;left: 20px;
+ width: 70%;
+ font-size: large;
+
+ }
+ 
+ #n samp{
+  color: rgb(23, 248, 23);
+ }
+
+
+
+ #dummy {
+  background-color: orange;
+  width: 90%;
+
+ }
+
+ #left_text{
+  text-align: left; position: relative;left: 20px;
+  font-size: 10px;
+  bottom: 20px;
+ }
+
+
+ #input_text {
+  text-align: left; position: relative;left: 20px;
+  font-size: 12px;
+  bottom: 20px;
+ }
+
+
+ #input {
+
+ position: relative;bottom: 35px;
+ width: 90%;
+ }
+ 
+
+ #car {
+  text-align: left; position: relative;left: 20px;
+  font-size: 14px;
+  bottom: 10px;
+ }
+
+
+ #hero {
+  text-decoration: none;
+  position: relative;
+  right: 40px;
+ }
+
+ #hero_1 {
+  position: relative;
+left: 40px;
+ }
+
+
+ #parint{
+  font-size: 13px;
+ }
+ #link{
+  margin-top: 15%;
+left: 200%;
+ }
