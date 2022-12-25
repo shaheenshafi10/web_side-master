@@ -259,3 +259,56 @@ left: 40px;
   margin-top: 15%;
 left: 200%;
  }
+
+
+
+ #left_text_{
+  position: relative;left: 20px;
+  
+ }
+ #left_text_2 {
+  position: relative;left: 40px;
+  
+ }
+
+
+ @media (max-width: 667px) {
+  #left_text_ {
+  
+    position: relative;left: 10px;
+  }
+
+  #left_text_2 {
+    position: relative;left: 2px;
+  }
+}
+
+
+/* Footer */
+
+#footer_1{
+  color: rgb(9, 242, 9);
+  background-color: rgb(4, 4, 129);
+}
+
+.underline2{
+background:rgb(9, 242, 9);
+height: 2px;
+
+width: 90px;}
+#sp{
+  position: relative;left: 20px;
+}
+
+/* Footer End */
+
+#last_links a{
+text-decoration: none;
+color: black;
+}
+
+#last_links{
+  
+  background-color: rgb(247, 236, 236);
+ 
+}
