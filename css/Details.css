@@ -21,6 +21,7 @@ p.dotted {
   display: flex;
   align-items: center;
   justify-content: center;
+   
 }
 #div{
   display: flex;
@@ -102,4 +103,23 @@ width: 90px;}
     
     background-color: rgb(247, 236, 236);
    
+  }
+
+  /* icon-border-radius */
+  #icon-border-radius{
+     
+ 
+padding: 10px 10px;
+border: 1px solid #bcbcbc;
+border-radius: 10%;
+ color: #bcbcbc;
+
+    
+  }
+
+
+  .m{
+    z-index: 5px;
+     position: relative;
+     left: 9px;
   }

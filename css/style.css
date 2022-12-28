@@ -312,3 +312,139 @@ color: black;
   background-color: rgb(247, 236, 236);
  
 }
+/* @media (max-width: 768px) {
+  .card_1 {
+  
+       
+      position: absolute;
+    left: 220px;
+    width: 50%;
+    /* position: fixed; */
+  /* }
+
+} */
+/* @media (max-width: 768px) {
+  #card{
+   width: 20px;
+  }
+
+}
+ 
+@media (max-width: 768px) {
+  #ummy{
+    position: relative;left: 400px;
+  min-width: 300px;
+  bottom: 300px;
+   
+  }
+
+} */ 
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+   .card_1{ 
+     
+    height: 45vh;
+   position: absolute;
+   left: 210px;
+   position: absolute;
+   left: 51%;
+   width: 30%;
+   position: fixed;
+    
+   
+   }
+    }
+
+
+    @media screen and (min-width: 768px) and (max-width: 1023px) {
+      #ml_2{ 
+     width: 4px;
+     
+      
+      }
+       }
+       @media screen and (min-width: 768px) and (max-width: 1023px) {
+        #ummy{ 
+        
+           
+          min-width: 750px;
+           
+        
+        }
+         }
+
+         @media screen and (min-width: 768px) and (max-width: 1023px) {
+          #sh{ 
+          position: absolute;
+          left: 350px;
+          }
+           }
+
+           
+         @media screen and (min-width: 768px) and (max-width: 1023px) {
+          #ipad-top{ 
+          position: absolute;
+          left: 350px;
+         bottom: 50px;
+          
+          }
+           }
+
+
+             
+         @media screen and (min-width: 768px) and (max-width: 1023px) {
+          #ipad-top-1{ 
+          position: absolute;
+          left: 350px;
+         
+          }
+           }
+           @media screen and (min-width: 820px) and (max-width: 1180px) {
+            #ipad-top{ 
+            position: relative;
+            bottom: 400px;
+           
+            }
+             }
+
+
+             @media screen and (min-width: 820px) and (max-width: 1180px) {
+              #ipad-left{ 
+              position: relative;
+              bottom: 400px;
+             
+              }
+               }
+               @media screen and (min-width: 820px) and (max-width: 1180px) {
+                #ummy{ 
+                  position: absolute;
+                top: 113%;
+                 
+               
+                }
+                 }
+
+                 @media screen and (min-width: 820px) and (max-width: 1180px) {
+                  #ummy-1{ 
+                  height: 80px;
+                 
+                  }
+                   }
+ @media screen and (min-width: 820px) and (max-width: 1180px) {
+     #ummy{ 
+   height: 80px;
+                   
+ }
+ }
+
+ @media screen and (min-width: 912px) and (max-width: 1180px) {
+  #ummy{ 
+ position: relative;
+ bottom: 400px;
+                
+}
+}
+  
+
+
+  
+               
