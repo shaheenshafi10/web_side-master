@@ -76,6 +76,7 @@
       left: 45px;
       width: 50%;
       position: fixed;
+    
     }
 
   }
@@ -444,7 +445,93 @@ color: black;
 }
 }
   
-
-
+/* @media screen and (min-width: 1024px) and (max-width: 1024px) {
+  #ummy{ 
+  background-color: blue;
+  position: absolute;
+  top: 200%;
   
-               
+                
+}
+} */
+@media screen and (min-width: 1024px) and (max-width: 1024px) {
+  #ml_2{ 
+  width: 20px;
+ 
+ 
+  }
+   }
+   
+  
+    /* fffff       */
+
+
+    @media screen and (min-width: 1024px) and (max-width: 1024px) {
+      #sh{ 
+      position: absolute;
+      left: 350px;
+      }
+       }
+
+       
+     @media screen and (min-width: 1024px) and (max-width: 1024px) {
+      #ipad-top{ 
+      position: absolute;
+      left: 350px;
+     bottom: 50px;
+      
+      }
+       }
+
+
+         
+     @media screen and (min-width: 1024px) and (max-width: 1024px) {
+      #ipad-top-1{ 
+      position: absolute;
+      left: 350px;
+     
+      }
+       }
+       @media screen and (min-width: 1024px) and (max-width: 1024px) {
+        #ipad-top{ 
+        position: relative;
+        bottom: 400px;
+       
+        }
+         }
+
+
+         @media screen and (min-width: 1024px) and (max-width: 1024px) {
+          #ipad-left{ 
+          position: relative;
+          bottom: 380px;
+         
+          }
+           }
+        /* cccccc */
+
+
+        @media screen and (min-width: 1024px) and (max-width: 1024px) {
+          #ummy{ 
+            position: absolute;
+          top: 220%;
+          left: 20%;
+          width: 450px;
+           
+         
+          }
+           }
+ 
+           @media screen and (min-width: 1024px) and (max-width: 1024px) {
+            .card_1{ 
+              
+              
+            
+            position: relative;
+            left: 560px;
+            width: 30%;
+            position: fixed;
+             
+            
+            }
+             }
