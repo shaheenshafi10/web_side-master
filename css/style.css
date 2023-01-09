@@ -770,3 +770,533 @@ bottom: 20px;
          
           }
            }
+
+
+#mt-2 , #mt-3{
+  position: relative;
+   top: 0px;
+}           
+
+
+
+/* 
+@media screen and (max-width: 1024px) and (min-width: 798px) {
+ #mt-2{ 
+  z-index: 2px;
+ position: relative;
+ top: 15px;
+ background-color: aqua;
+
+ }
+  } */
+
+
+
+  
+@media only screen 
+and (min-device-width : 914px) 
+and (max-device-width : 914px) 
+and (orientation : landscape)
+{   
+#mt-4{
+  position: relative;
+  top: 19px;
+}
+}
+
+  
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+{   
+#mt-2 , #mt-3{
+ top: 10px;
+}
+}
+
+@media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+{   
+#mt-3{
+ top: 6px;
+}
+}
+ 
+/* @media only screen 
+and (min-device-width : 1024px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+{   
+body {
+  background-color: aqua;
+  height: 50vh;
+ 
+}
+} */
+
+
+ 
+
+@media screen and (max-width: 1024px) and (min-width: 1024px) {
+  .row-ipad-rotat-media{ 
+   
+   
+ height: 400px;
+  }
+   }
+
+
+   @media screen and (max-width: 1024px) and (min-width: 1024px) {
+    #ummy{ 
+     
+    
+ position: absolute;
+  top: 1000px;
+  width: 30px;
+  left: 674px;
+    }
+     }
+
+
+     @media screen and (max-width: 1024px) and (min-width: 1024px) {
+      #link{ 
+       
+ 
+ width: 45%;
+      }
+       }
+
+
+
+        
+  
+       @media only screen 
+       and (min-device-width : 914px) 
+       and (max-device-width : 914px) 
+       and (orientation : landscape)
+       {   
+       #mt-2 {
+         position: relative;
+         top: 10px;
+       }
+       }
+
+         
+@media only screen 
+and (min-device-width : 914px) 
+and (max-device-width : 914px) 
+and (orientation : landscape)
+{   
+#mt-3{
+  position: relative;
+  top: 7px;
+}
+}
+
+@media only screen 
+and (min-device-width : 914px) 
+and (max-device-width : 914px) 
+and (orientation : landscape)
+{   
+.card_1{
+   
+  position: absolute;
+   
+  left: 59%;
+  width: 25%;
+  height: 65vh;
+  position: fixed;
+}
+}
+
+
+@media only screen 
+and (min-device-width : 720px) 
+and (max-device-width : 720px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 30%;
+  position: fixed;
+}
+}
+
+
+@media only screen 
+and (min-device-width : 915px) 
+and (max-device-width : 915px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 59%;
+  top: 50%;
+  width: 25vw;
+  position: fixed;
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 915px) 
+and (max-device-width : 915px) 
+and (orientation : landscape)
+{   
+#mt-4{
+  position: relative;
+  top: 20px;
+   
+}
+}
+
+
+@media only screen 
+and (min-device-width : 915px) 
+and (max-device-width : 915px) 
+and (orientation : landscape)
+{   
+#mt-3 {
+  position: relative;
+  top: 10px;
+   
+}
+}
+
+
+@media only screen 
+and (min-device-width : 915px) 
+and (max-device-width : 915px) 
+and (orientation : landscape)
+{   
+#mt-2{
+  position: relative;
+  top: 12px;
+   
+}
+}
+
+
+@media only screen 
+and (min-device-width : 740px) 
+and (max-device-width : 740px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 25%;
+  width: 55%;
+  top: 55%;
+  position: fixed;
+}
+}
+
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+#ummy{
+   position: relative;
+ bottom: 400px;
+  
+}
+}
+
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+#mt-4{
+   position: relative;
+ top: 20px;
+  
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+#mt-3{
+   position: relative;
+ top: 10px;
+  
+}
+}
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+#mt-2{
+   position: relative;
+ top: 14px;
+ 
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+#ummy{
+   position: relative;
+ bottom: 400px;
+  
+}
+}
+
+
+
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+#mt-4{
+   position: relative;
+ top: 20px; 
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+#mt-3{
+   position: relative;
+ top: 10px; 
+}
+}
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+#mt-2{
+   position: relative;
+ top: 14px;
+}
+}
+
+
+
+
+@media only screen 
+and (min-device-width : 896px) 
+and (max-device-width : 896px) 
+and (orientation : landscape)
+{   
+#ummy{
+   position: relative;
+ bottom: 400px;
+  
+}
+}
+
+
+@media only screen 
+and (min-device-width : 896px) 
+and (max-device-width : 896px) 
+and (orientation : landscape)
+{   
+#mt-4{
+   position: relative;
+ top: 20px; 
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 896px) 
+and (max-device-width : 896px) 
+and (orientation : landscape)
+{   
+#mt-3{
+   position: relative;
+ top: 10px; 
+}
+}
+
+@media only screen 
+and (min-device-width : 896px) 
+and (max-device-width : 896px) 
+and (orientation : landscape)
+{   
+#mt-2{
+   position: relative;
+ top: 14px;
+}
+}
+
+
+@media only screen 
+and (min-device-width : 896px) 
+and (max-device-width : 896px) 
+and (orientation : landscape)
+{   
+.card_1{
+   
+  position: absolute;
+   top: 45%;
+  left: 62%;
+  width: 22%;
+  height: 65vh;
+  position: fixed;
+}
+}
+
+
+
+
+
+@media only screen 
+and (min-device-width : 653px) 
+and (max-device-width : 653px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 29%;
+  position: fixed;
+  width: 49%;
+}
+}
+
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 63%;
+  position: fixed;
+  height: 60vh;
+  width: 20%;
+  
+}
+}
+
+@media only screen 
+and (min-device-width : 851px) 
+and (max-device-width : 851px) 
+and (orientation : landscape)
+{   
+#link {
+   width: 40%;
+}
+}
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+.card_1{
+  position: absolute; 
+  left: 63%;
+  position: fixed;
+  height: 60vh;
+  width: 20%;
+  
+}
+}
+
+@media only screen 
+and (min-device-width : 844px) 
+and (max-device-width : 844px) 
+and (orientation : landscape)
+{   
+#link {
+   width: 40%;
+}
+}
+
+
+
+@media only screen 
+and (min-device-width : 1180px) 
+and (max-device-width : 1180px) 
+and (orientation : landscape)
+{   
+  #mt-3{
+    position: relative;
+  top: 9px; 
+ 
+ } 
+}
+
+
+/* Tablets (portrait) -------------------- */
+@media only screen 
+and (min-device-width : 820px) 
+and (max-device-width : 1180px) 
+and (orientation : portrait)
+{
+  #mt-4{
+    position: relative;
+  top: 20px; 
+ }
+}
+
+
+@media only screen 
+and (min-device-width : 820px) 
+and (max-device-width : 1180px) 
+and (orientation : portrait)
+{
+  #mt-3{
+    position: relative;
+  top: 10px; 
+ }
+}
+
+@media only screen 
+and (min-device-width : 820px) 
+and (max-device-width : 1180px) 
+and (orientation : portrait)
+{
+  #mt-2{
+    position: relative;
+  top: 14px;
+ }
+}
+
+
+
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait)
+{
+  #mt-2{
+    position: relative;
+  top: 14px;
+  
+ }
+}

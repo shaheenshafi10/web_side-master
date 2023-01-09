@@ -106,368 +106,91 @@ width: 90px;}
   }
 
   /* icon-border-radius */
-  #icon-border-radius{
-     
- 
-padding: 10px 10px;
+  .icon-border-radius{
 border: 1px solid #bcbcbc;
-border-radius: 10%;
+border-radius: 5%;
  color: #bcbcbc;
 
     
   }
 
 
-  .m{
-    z-index: 5px;
-     position: relative;
-     left: 9px;
-  }
-  
 
-  /* @media (max-width:  1108px) {
-    #map {
-    
-      background-color: aqua;
+  
+p.dotted-etails-text {
+  border-top: 2px rgb(0, 0, 0) dotted;
+  
+}
+
+  @media screen and (max-width: 1197px) and (min-width: 176px) {
+    #map2{ 
+   
+  position: relative;right: 10px;
+   
+ 
+    }
+     }
+
+
+     @media screen and (max-width: 1197px) and (min-width: 176px) {
+      #map{ 
+     
+       position: relative;right: 1px;
+       width: 200px;
+   
+      }
+       }
+     
  
   
-    }
+     
+.text-top-5{
+  z-index: 5px;
+  position: relative;
+  top: 30px;
+ }
+
+ .text-top-6{
+  z-index: 5px;
+  position: relative;
+  top: 40px;
+ }
+ 
+ .text-top-4{
+  z-index: 5px;
+  position: relative;
+  top: 25px;
+ }
+
+ 
+
+ .text-top-3{
+  z-index: 5px;
+  position: relative;
+  top: 19px;
+ }
+
+ .text-top-2{
+  z-index: 5px;
+  position: relative;
+  top: 15px;
+ }
+
+ .text-top-1{
+  z-index: 5px;
+  position: relative;
+  top: 7px;
+ }
+
+
+
+
+ @media screen and (min-width: 13px) and (max-width: 1000px) {
+  #last_links{ 
+
   
-  } */
-  @media (max-width:  1108px) {
-    #last_links{
-    
-       
  font-size: 10px;
-  
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #map{
-    
-      /* background-color: aqua; */
-  position: relative;left: 60px;
-  width: 230px;
-  position: relative;top: 20%;
-    }
-  
-  }
-
-  @media (max-width: 820px) {
-    #map2{
-    
-      
-  position: relative;right: 100px;
-    }
-  
-  }
 
 
-
-
-  @media (max-width: 820px) {
-    #icon-home{
-    
-       
-   font-size: 10px;
-   width: 10px;
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #wifi{
-    
-      
-   font-size: 5px;
-   position: relative;right: 4px;
-   position: relative;top: 60px;
-   
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #wifi1{
-    
-      
-   font-size: 5px;
-   position: relative;left: 42px;
-   
-   
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #div{
-    
-      
-   position: relative;left: 20px;
-   width: 20px;
-   height: 10px;
-   
-   
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #wifi2{
-    
-      
-    
-      font-size: 5px;
-      position: relative;left: 14px;
-      position: relative;top: 60px;
-      
-   
-   
-    }
-  
-  }
-  @media (max-width: 820px) {
-    #wifi3{
-    
-      
-    width: 10px;
-      font-size: 5px;
-      position: relative;right: 33px;
-   
-   
-    }
-  
-  }
-  @media (max-width: 1180px) {
-    #wifi{
-    
-      
-   font-size: 10px;
-   /* position: relative;right: 4px;
-   position: relative;top: 60px; */
-   
-    }
-  
-  }
-  @media (max-width: 1180px) {
-    #wifi1{
-    
-      
-   font-size: 10px;
-   /* position: relative;right: 4px;
-   position: relative;top: 60px; */
-   
-    }
-  
-  }
-  @media (max-width: 1180px) {
-    #wifi2{
-    
-      
-   font-size: 10px;
-   /* position: relative;right: 4px;
-   position: relative;top: 60px; */
-   
-    }
-  
-  }
-  @media (max-width: 1180px) {
-    #wifi3{
-    
-      
-   font-size: 10px;
-   /* position: relative;right: 4px;
-   position: relative;top: 60px; */
-   
-    }
-  
-  }
-  /* ipd */
-  @media (max-width: 375px) {
-    #wifi{
-    
-      
-    
-   position: relative;left: 20px;
-   position: relative;top: 1px;
-   width: 90px;
-   
-    }
-  
-  }
-  @media (max-width: 375px) {
-    #wifi1{
-    
-      
-    
-   position: relative; left:16%;
-   
-   
-    }
-  
-  }
-  @media screen and (min-width: 375px) {
-    #wifi2{
-    
-      /* background-color: yellow; */
-   font-size: 16px;
-   position: relative;left: 5px;
-   position: relative;top: 60px;
-   
-    }
-  
-  }
-  @media (max-width: 375px) {
-    #wifi3{
-    
-      
-   font-size: 10px;
-   position: relative;left: 10px;
-   position: relative;top: 65px;
-   width: 90px;
-   height: 40px;
-   
-    }
-  
-  }
-  @media (max-width: 375px) {
-    #div{
-    
-      display: flex;
-   position: relative;left: 80px;
-   font-size: 30px;
-   
-   
-    }
-  
-  }
-
-  /* ipdr */
-
-  @media (max-width: 667px) {
-    #wifi{
-     
-    font-size: 15px;
-   position: relative;left: 20px;
-   position: relative;top: 1px;
-   width: 90px;
-   
-    }
-  
-  }
-  @media (max-width: 667px) {
-    #wifi1{
-     
-    font-size: 15px;
-   position: relative; left:20%;
-   
-   
-    }
-  
-  }
-  /* @media (max-width: 667px) {
-    #wifi2{
-     display: block;
-      background-color: #103076;
-   font-size: 15px;
-   position: relative;left: 10px;
-   position: relative;top: 54px;
-   
-    }
-  
-  } */
-  @media (max-width: 667px) {
-    #wifi3{
-    
-      
-   font-size: 15px;
-   position: relative;left: 10px;
-   position: relative;top: 65px;
-   width: 90px;
-   height: 40px;
-   
-    }
-  
-  }
-  @media (max-width: 667px) {
-    #div{
-      display: block;
-   
-   font-size: 30px;
-   
-   
-    }
-  
-  }
-
-@media screen and (min-width: 1024px) {
-  #map{
-    
-    /* background-color: rgb(68, 0, 255); */
-position: relative;right: 19px;
-width: 250px;
-/* position: relative;top: 20%; */
-  }
-
-  }
-  @media screen and (min-width: 375px) {
-    #map{
-      
-      /* background-color: rgb(68, 0, 255); */
-  position: relative;left: 100px;
-  /* width: 250px; */
-  position: relative;top: 10%;
-    }
-  
-    }
-    @media screen and (min-width:1024px) {
-      #map{
-        
-        /* background-color: rgb(68, 0, 255); */
-    position: relative;left: 0px;
-    /* width: 250px; */
-    position: relative;top: 10%;
-      }
-    
-      }
-
-      @media screen and (min-width: 1024px) {
-        #wifi2{
-        
-          /* background-color: rgb(255, 8, 0); */
-       font-size: 10px;
-       position: relative;left: 0px;
-       position: relative;top: 1px;
-       
-        }
-      
-      }
-      @media screen and (min-width: 667px) {
-        #wifi2{
-        
-          /* background-color: rgb(255, 8, 0); */
-          font-size: 15px;
-          position: relative;left: 29px;
-          position: relative;top: 54px;
-       
-        }
-      
-      }
-      @media screen and (min-width: 1180px) {
-        #wifi2{
-        
-          /* background-color: rgb(234, 0, 255); */
-          font-size: 10px;
-          position: relative;left: 7px;
-          position: relative;top: 2px;
-       
-        }
-      
-      }
-      @media screen and (min-width:820px) {
-        #map{
-          
-          /* background-color: rgb(68, 0, 255); */
-      position: relative;left: 59px;
-      /* width: 250px; */
-      position: relative;top: 10%;
-        }
-      
-        }
+}
+}
